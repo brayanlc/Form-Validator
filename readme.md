@@ -2,6 +2,8 @@
 
 Simple client side form validation. Check requird, length, email and password match
 
+[Demo](https://form-validator-d31ab.firebaseapp.com)
+
 ## Project Specifications
 
 - Create form UI
